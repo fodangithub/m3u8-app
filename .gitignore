@@ -1,0 +1,7 @@
+build/
+dist/
+pieces/
+M3U8Downloader*.*
+output.*
+settings.json
+**/*/*_delete_me.*
